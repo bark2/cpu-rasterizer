@@ -1,0 +1,10 @@
+-std=c++11
+-DDEBUG
+-IF:C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.2.1/../../../../include/c++/8.2.1
+-IF:C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.2.1/../../../../include/c++/8.2.1/x86_64-w64-mingw32
+-IF:C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.2.1/../../../../include/c++/8.2.1/backward
+-IF:C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.2.1/include
+-IF:C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.2.1/../../../../include
+-IF:C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.2.1/include-fixed
+-IF:C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.2.1/../../../../x86_64-w64-mingw32/include
+-IF:C:\Users\bar\source\repos\shomsky\cghw2
